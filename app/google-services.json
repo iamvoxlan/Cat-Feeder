@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "474841620892",
+    "firebase_url": "https://catfeeder-665fb.firebaseio.com",
+    "project_id": "catfeeder-665fb",
+    "storage_bucket": "catfeeder-665fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474841620892:android:bb3659123c687367",
+        "android_client_info": {
+          "package_name": "com.example.catfeeder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474841620892-5dkpl7jf0au6osqk4hd1jr2eg96m6l3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0EX1LHh2lcN7zKgsxx9CAdlZQ_KQtUlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474841620892-5dkpl7jf0au6osqk4hd1jr2eg96m6l3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/background</item>
+        <item name="colorPrimaryDark">@color/background</item>
+        <item name="colorAccent">@color/background</item>
+    </style>
+
+    <style name="textTimeStyle">
+        <item name="android:layout_marginLeft">30dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:fontFamily">@font/alef_bold</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+</resources>
